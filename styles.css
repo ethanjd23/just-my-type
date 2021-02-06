@@ -12,7 +12,7 @@
 #yellow-block {
   position: absolute;
   margin-top: 10px;
-  width: 15px;
+  width: 10px;
   height: 15px;
   background-color: yellow;
 }
@@ -32,6 +32,7 @@
 
 #feedback {
   font-size: 20px;
+  color: green;
 }
 .glyphicon-ok {
   color: #1DA237
